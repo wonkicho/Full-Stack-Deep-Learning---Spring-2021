@@ -12,7 +12,9 @@ original github : https://github.com/full-stack-deep-learning/fsdl-text-recogniz
 * Week 1: Fundamentals
 
 * Week 2: CNNs
-
+  
+  url : https://rueki.tistory.com/249
+  
 * Week 3: RNNs
   
   url : https://rueki.tistory.com/246
