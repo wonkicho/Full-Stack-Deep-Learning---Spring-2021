@@ -21,6 +21,8 @@ original github : https://github.com/full-stack-deep-learning/fsdl-text-recogniz
 
 * Week 4: Transformers
 
+  url : https://rueki.tistory.com/251
+
 * Week 5: ML Projects
 
 * Week 6: Infra & Tooling
