@@ -25,6 +25,8 @@ original github : https://github.com/full-stack-deep-learning/fsdl-text-recogniz
 
 * Week 5: ML Projects
 
+  url : https://rueki.tistory.com/253
+
 * Week 6: Infra & Tooling
 
 * Week 7: Troubleshooting
