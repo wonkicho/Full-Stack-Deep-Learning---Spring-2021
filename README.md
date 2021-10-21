@@ -33,6 +33,8 @@ original github : https://github.com/full-stack-deep-learning/fsdl-text-recogniz
 
 * Week 7: Troubleshooting
 
+  url : https://rueki.tistory.com/256
+
 * Week 8: Data
 
 * Week 9: Ethics
