@@ -43,6 +43,8 @@ original github : https://github.com/full-stack-deep-learning/fsdl-text-recogniz
 
 * Week 11: Deployment
 
+  url : https://rueki.tistory.com/268
+
 * Week 12: Research
 
 * Week 13: Teams
