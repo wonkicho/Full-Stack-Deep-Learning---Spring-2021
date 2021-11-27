@@ -50,6 +50,8 @@ original github : https://github.com/full-stack-deep-learning/fsdl-text-recogniz
 
 * Week 12: Research
 
+  url : https://rueki.tistory.com/273
+
 * Week 13: Teams
 
 * Week 14-16: Projects
